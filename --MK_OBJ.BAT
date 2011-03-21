@@ -1,0 +1,1 @@
+@if exist kernel00.asm tasm /s /c /x /w2 /w-TPI /m /z %1 %2 %3 %4 %5 %6 %7 %8 %9 kernel00

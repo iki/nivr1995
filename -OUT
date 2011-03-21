@@ -1,0 +1,20 @@
+
+þþ ni operating system
+
+þ performing processor check : 80486 in real mode
+þ performing memory check : 0x1BC0 kb above hma, ext_top=0x00800000
+                            gate a20 disabled
+                            xms version 3.00, driver revision 3.10, 0x1BC0 kb
+                            0x1BC0 kb allocated at 0x00110000
+þ performing vga check : 0x100 kb allocated, color monitor detected
+þ performing input device check : 2-button mouse
+þ entering real flat mode..
+þ init memory management system..
+þ init file system..
+þ startup keyboard handler..
+þ saving mouse state..
+þ saving video state..4100
+þ restoring video state..
+þ restoring mouse state..
+þ leaving real flat mode..
+þ exiting..

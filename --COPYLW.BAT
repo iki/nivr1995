@@ -1,0 +1,1 @@
+copy kernel00.* lw.*
